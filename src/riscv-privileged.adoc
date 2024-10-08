@@ -1,6 +1,6 @@
 [[risc-v-isa]]
 = The RISC-V Instruction Set Manual: Volume II: Privileged Architecture
-include::../docs-resources/global-config.adoc[]
+//include::../docs-resources/global-config.adoc[]
 :description: Volume II - Privileged Architecture
 :revnumber: 20241002-Ratification-Vote
 //:revremark: Pre-release version

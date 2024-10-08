@@ -1,6 +1,6 @@
 [[risc-v-isa]]
 = The RISC-V Instruction Set Manual Volume I: Unprivileged Architecture
-include::../docs-resources/global-config.adoc[]
+//include::../docs-resources/global-config.adoc[]
 :description: Unprivileged Architecture
 :revnumber: 20240411
 //:revremark: Pre-release version
